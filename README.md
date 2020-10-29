@@ -3,6 +3,8 @@ Violent Activity Detection from Videos.
 
 Group Members:
 
-Arda Efe ŞEN  
-Özgün GÜLER 
+Arda Efe ŞEN
+
+Özgün GÜLER
+
 Esin GÖKÇE 
