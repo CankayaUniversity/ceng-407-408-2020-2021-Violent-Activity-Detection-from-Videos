@@ -5,5 +5,4 @@ Group Members:
 
 Arda Efe ŞEN  
 Özgün GÜLER 
-
 Esin GÖKÇE 
